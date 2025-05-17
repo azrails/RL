@@ -36,7 +36,7 @@ uv sync
 - **Technologies**: Main technologies/libraries used
 - **Key Features**: Core functionality or implemented methods -->
 
-### 📁 [Value/Policy Iteration](./ppo-dpo/ppo_dpo.ipynb)
+### 📁 [Value/Policy Iteration](./ValuePolicyIteration/ValuePolicyIteration.ipynb)
 - **Description**: Realizing Value Iteration and Policy Iteration RL algorithms for Markov decision process.
 - **Key Features**: Value Iteration, Policy Iteration
 
