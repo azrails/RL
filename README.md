@@ -37,15 +37,10 @@ uv sync
 - **Key Features**: Core functionality or implemented methods -->
 
 ### 📁 [Value/Policy Iteration](./ValuePolicyIteration/ValuePolicyIteration.ipynb)
-- **Description**: Realizing Value Iteration and Policy Iteration RL algorithms for Markov decision process.
-- **Key Features**: Value Iteration, Policy Iteration
+- **Description**: Solving Markov decision process problem with dynamic programming.
+- **Algorithms**: Value Iteration, Policy Iteration
 
-<!-- ### 📁 [GPT like transformer with Mixture of Experts](./gpt-moe/gpt_moe.ipynb)
-- **Description**: Implementation GPT-like model with Mixture-of-Experts and Grouped Query Attention.
-- **Technologies**: PyTorch
-- **Key Features**: GPT transformer, Mixture of Experts (simple variant), Grouped Query Attention
+### 📁 [Tabular Learning](TabularLearning/TabularLearning.ipynb)
+- **Description**: Experements with tabular learning RL algorithms for Blackjack game.
+- **Algorithms**: Q-learning, SARSA, Epected-SARSA
 
-### 📁 [Word2Vec](./word2vec/word2vec.ipynb)
-- **Description**: Implementation Word2Vec embedding algorithm with subsampling and negative sampling.
-- **Technologies**: PyTorch
-- **Key Features**: Word2Vec -->
