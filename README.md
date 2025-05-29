@@ -44,3 +44,8 @@ uv sync
 - **Description**: Experements with tabular learning RL algorithms for Blackjack game.
 - **Algorithms**: Q-learning, SARSA, Epected-SARSA
 
+### 📁 [DQN](DDQN/DDQN.ipynb)
+- **Description**: Implementation DQN algorithm for solving atari games control.
+- **Algorithms**: Dueling Double DQN
+- 
+- ![Agent](DDQN/videos/game_episode.gif)
