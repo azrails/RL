@@ -49,3 +49,9 @@ uv sync
 - **Algorithms**: Dueling Double DQN
 - 
 - ![Agent](DDQN/videos/game_episode.gif)
+
+### 📁 [PPO](PPO/PPO.ipynb)
+- **Description**: Implementation Proximal Policy Optimization algorithm from scratch.
+- **Algorithms**: Proximal Policy Optimization
+- 
+- ![Agent](PPO/videos/game_episode.gif)
