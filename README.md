@@ -55,3 +55,9 @@ uv sync
 - **Algorithms**: Proximal Policy Optimization
 - 
 - ![Agent](PPO/videos/game_episode.gif)
+
+### 📁 [SAC](SAC/SAC.ipynb)
+- **Description**: Implementation Soft Actor Critic algorithm from scratch.
+- **Algorithms**: Soft Actor Critic
+- 
+- ![Agent](SAC/videos/game_episode.gif)
